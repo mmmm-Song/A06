@@ -43,7 +43,7 @@ The system retrieves job information via employer board APIs (Greenhouse n.d.; L
 Clone your copy of the repository, or download and unzip it from GitHub. Replace the URL below with the actual repository URL after publication:
 
 ```sh
-git clone YOUR_REPOSITORY_URL job-search-digest
+git clone https://github.com/mmmm-Song/A06.git job-search-digest
 cd job-search-digest
 python3 --version
 ```
