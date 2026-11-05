@@ -1,9 +1,0 @@
-{
-  "domain_terms": ["finance", "financial", "accounting", "accountant", "banking", "credit analysis", "comptab", "financier", "data analy", "analyse de données", "business intelligence"],
-  "skills": ["sap", "excel", "power bi", "financial analysis", "financial reporting", "accounting", "banking", "sql", "accounts payable", "accounts receivable", "reconciliation", "fabric", "forecast"],
-  "preferred_locations": ["montréal", "montreal", "canada", "quebec", "québec"],
-  "excluded_title_terms": ["customer service", "client service", "customer support", "account executive", "sales", "business development", "data scientist", "conseiller service à la clientèle"],
-  "minimum_skill_matches": 2,
-  "maximum_years_experience": 5,
-  "require_us_sponsorship": true
-}
